@@ -3,6 +3,7 @@ document.getElementById("btnClick").addEventListener("click", function () {
 });
 
 //Este es un metodo, por probar
+// prueba con hotfix
 document
   .getElementById("contactForm")
   .addEventListener("submit", function (event) {
